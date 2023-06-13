@@ -25,9 +25,11 @@ PyYAML
 torch_complex
 espnet
 PyWavelets
-monotonic-align==0.0.3
+monotonic-align==1.0.0
 transformers
 fastapi
 loguru
-typer[all]
+typer==0.9.0
 click
+pydantic
+pandas
